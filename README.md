@@ -1,6 +1,6 @@
 <div style="text-align:center;">
 <h1>Caesar cipher</h1><br>
-![decoder](https://makellum.github.io/Secret-Message/Image/decoder.jpg)<br>
+![decoder](https://makellum.github.io/Secret-Message/Image/decoder.jpg style="width:128px;height:128px;")<br>
   <img src="https://makellum.github.io/Secret-Message/Image/decoder.jpg"><br>
 Casear cipher written in Python.
 A Caesar cipher is a substitution cipher in<br>
